@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="background">
+    <file>hr_bg.png</file>
+  </qresource>
+  <qresource prefix="title">
+    <file>title.png</file>
+  </qresource>
+  <qresource prefix="box">
+    <file>box.png</file>
+    <file>info.png</file>
+  </qresource>
+  <qresource prefix="graph">
+    <file>graph_bg.png</file>
+  </qresource>
+  <qresource prefix="power">
+    <file>pw.png</file>
+  </qresource>
+</RCC>
