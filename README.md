@@ -1,6 +1,6 @@
 # Hyperloop GUI 🚀
 
-![Hyperloop GUI Demo](video.mp4)
+![Hyperloop GUI Demo](video.gif)
 
 Hyperloop yarışması için örnek random verilerle oluşturulmuş modern ve kullanıcı dostu grafik arayüz uygulaması. İsteğe bağlı random veriler yerine gerçek verilerle entegre edilebilir.
 
